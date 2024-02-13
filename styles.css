@@ -6,6 +6,10 @@ body {
   color: #ff9494;
   display: flex;
   flex-direction: column;
+    background-image : url("https://i.pinimg.com/originals/4f/2b/53/4f2b5309a2927c639a78dabb24ea67b6.jpg");
+   height: 400px; /* You must set a specified height */
+  background-position: center;
+  color: #ff9494;
 }
 h1 {
   font-size: 40px;
