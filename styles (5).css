@@ -1,5 +1,16 @@
 body{
   padding: 25px;
+	body {
+  text-align: center;
+  margin-top: 30px;
+  font-family: Courier;
+  background-color: #fff5e4;
+   background-image : url("https://i.pinimg.com/originals/4f/2b/53/4f2b5309a2927c639a78dabb24ea67b6.jpg");
+   height: 400px; 
+  background-position: center;
+  color: #FFFFFF;
+
+}
   background-color:#FFB6C1;
 }
 .title {
