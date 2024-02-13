@@ -3,7 +3,11 @@ body {
   margin-top: 30px;
   font-family: Courier;
   background-color: #fff5e4;
-  color: #ff9494;
+   background-image : url("https://i.pinimg.com/originals/4f/2b/53/4f2b5309a2927c639a78dabb24ea67b6.jpg");
+   height: 400px; 
+  background-position: center;
+  color: #FFFFFF;
+
 }
 #activityquestion {
   font-size: 50px;
@@ -25,6 +29,7 @@ body {
 }
 .activity-item label {
   display: block;
+   color: #FFFFFF;
 }
 .button {
   padding: 10px 20px;
