@@ -13,7 +13,7 @@ body {
   font-weight: bold;
 }
 .dessert-item {
-  display: inline-table;
+  display: inline-block;
   margin: 10px;
   vertical-align: top;
   color: #ff9494;
@@ -26,7 +26,7 @@ body {
   object-fit: cover;
   padding: 10px;
 }
-.dessert-item label {
+.dessert-item block {
   display: block;
   color:#FFFFFF;
 }
